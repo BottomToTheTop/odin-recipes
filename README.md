@@ -1,1 +1,2 @@
 # odin-recipes
+My first project is a basic recipe website demonstrating my current HTML knowledge. I have shown that I can build basic webpages to display information using headers, images, paragraphs, and lists. 
